@@ -36,9 +36,6 @@ function HomePage() {
       <div className="hero-section">
         <h1 className="title">Welcome to our Online Store</h1>
         <p className="subtitle">Discover amazing products for every need</p>
-        <a href="/shop" className="button">
-          Shop Now
-        </a>
       </div>
 
       <div className="featured-products">
